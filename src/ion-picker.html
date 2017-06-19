@@ -1,0 +1,10 @@
+<ul>
+    <li [class.selected]="item.value === getSelectedValue()" *ngFor="let item of items; let i=index" (click)="selectValue(item.value)">
+        <div class="circle">
+            <ion-icon [name]="item.icon"></ion-icon>
+        </div>
+        <div>
+            <span>{{item.text}}</span>
+        </div>
+    </li>
+</ul>
