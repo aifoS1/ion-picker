@@ -3,7 +3,7 @@ A simple ion picker, easily customizable.
 
 ## Preview
 
-![Picker with 3 choices](https://github.com/keldorg/ion-picker/tree/master/img/ion-picker.png)
+![Picker with 3 choices](https://github.com/keldorg/ion-picker/blob/master/img/ion-picker.png)
 
 ## Prerequisites.
 
